@@ -46,7 +46,3 @@ Run the script:
 ```text
 Device: raspberrypi MAC Address: dc:a6:32:ab:12:34
 ```
-
-## License
-
-MIT License
